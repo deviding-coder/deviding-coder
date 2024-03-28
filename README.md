@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Max.
-📚 Education: Surgut State University, majoring in “Applied Mathematics and Informatics”
+My name is Max.  
+📚 Education: Surgut State University, majoring in “Applied Mathematics and Informatics”  
 📖 I’m currently learning neural networks
 
 <!--
